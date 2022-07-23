@@ -8,9 +8,12 @@ A repository to contain python scripts I wrote for fun.
     - It contains a score based calculator for mood.
     - **Note**: This calculator may not be accurate because score and mood bindings are highly experimental.
 
+## Running pyprac
+In order to run pyprac, you need to run the following command:
+```python main.py```
+
 ## Contributing
 Although it is a personal fun project, I would be happy to recieve a Pull Request that would improve the functionality of these scripts :)
-
 
 ## License
 [![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
