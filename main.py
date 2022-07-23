@@ -1,4 +1,4 @@
-# Mood Calculator - A part of pyprac
+# PYPRAC
 # Copyright (C) 2022 
 # Veer Pratap Singh <hello@veer.codes>
 # => github.com/anonyindian
